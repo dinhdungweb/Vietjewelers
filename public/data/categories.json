@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "rings",
+    "label": "Rings",
+    "count": 288,
+    "image": "https://cdn.shopify.com/s/files/1/0660/3033/8244/files/18-IMG_4453.jpg?v=1770818089"
+  },
+  {
+    "slug": "earrings",
+    "label": "Earrings",
+    "count": 127,
+    "image": "https://cdn.shopify.com/s/files/1/0660/3033/8244/files/6-IMG_4468.jpg?v=1770818091"
+  },
+  {
+    "slug": "necklaces",
+    "label": "Necklaces",
+    "count": 52,
+    "image": "https://cdn.shopify.com/s/files/1/0660/3033/8244/files/FORZ25-TOP-JB13195-OP-GP-44742.jpg?v=1760420127"
+  },
+  {
+    "slug": "charms-pendants",
+    "label": "Charms & Pendants",
+    "count": 36,
+    "image": "https://cdn.shopify.com/s/files/1/0660/3033/8244/files/12-IMG_4459.jpg?v=1770818093"
+  },
+  {
+    "slug": "other",
+    "label": "Other",
+    "count": 23,
+    "image": "https://cdn.shopify.com/s/files/1/0660/3033/8244/files/17-IMG_8570.jpg?v=1765024787"
+  },
+  {
+    "slug": "bracelets",
+    "label": "Bracelets",
+    "count": 18,
+    "image": "https://cdn.shopify.com/s/files/1/0660/3033/8244/files/8-IMG_4465.jpg?v=1770818092"
+  },
+  {
+    "slug": "body-jewelry",
+    "label": "Body Jewelry",
+    "count": 10,
+    "image": "https://cdn.shopify.com/s/files/1/0660/3033/8244/files/gen-h-z7456798307432_bc1709faeb74c2b13ecaf488ac671eb0.jpg?v=1769070278"
+  },
+  {
+    "slug": "watches",
+    "label": "Watches",
+    "count": 5,
+    "image": "https://cdn.shopify.com/s/files/1/0660/3033/8244/files/8-IMG_9951.jpg?v=1766636197"
+  },
+  {
+    "slug": "brooches",
+    "label": "Brooches & Lapel Pins",
+    "count": 5,
+    "image": "https://cdn.shopify.com/s/files/1/0660/3033/8244/files/ca-flower-pearl_5.jpg?v=1740834850"
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "shop": "Cửa hàng",
+    "collection": "Bộ sưu tập",
+    "contact": "Liên hệ"
+  },
+  "topbar": {
+    "findStore": "Tìm cửa hàng"
+  },
+  "hero": {
+    "subtitle": "Hàng mới về",
+    "title": "VIET JEWELERS TRANG SỨC VÀNG & BẠC",
+    "cta": "Khám phá bộ sưu tập"
+  },
+  "categories": {
+    "title": "Danh mục sản phẩm",
+    "explore": "Khám phá",
+    "rings": "Nhẫn",
+    "earrings": "Bông tai",
+    "necklaces": "Dây chuyền",
+    "charms-pendants": "Mặt dây & Charm",
+    "bracelets": "Vòng tay",
+    "body-jewelry": "Trang sức cơ thể",
+    "watches": "Đồng hồ",
+    "brooches": "Trâm cài & Ghim",
+    "other": "Khác"
+  },
+  "products": {
+    "featured": "Sản phẩm nổi bật",
+    "bestSellers": "Bán chạy nhất",
+    "newArrivals": "Hàng mới về",
+    "viewDetails": "Xem chi tiết",
+    "allProducts": "Tất cả sản phẩm",
+    "filters": "Bộ lọc",
+    "clearAll": "Xóa bộ lọc",
+    "sort": "Sắp xếp theo",
+    "sortPriceAsc": "Giá: Thấp đến Cao",
+    "sortPriceDesc": "Giá: Cao đến Thấp",
+    "sortNameAsc": "Tên: A đến Z",
+    "sortNameDesc": "Tên: Z đến A",
+    "priceRange": "Khoảng giá",
+    "under500k": "Dưới 500.000₫",
+    "500kTo1m": "500.000₫ - 1.000.000₫",
+    "1mTo5m": "1.000.000₫ - 5.000.000₫",
+    "over5m": "Trên 5.000.000₫",
+    "category": "Danh mục",
+    "type": "Loại",
+    "noProducts": "Không tìm thấy sản phẩm",
+    "showingResults": "Hiển thị {{count}} sản phẩm",
+    "relatedProducts": "Sản phẩm liên quan"
+  },
+  "productDetail": {
+    "interested": "Bạn quan tâm sản phẩm này?",
+    "contactUs": "Liên hệ với chúng tôi qua kênh bạn thích",
+    "chatOnZalo": "Nhắn tin qua Zalo",
+    "dmOnInstagram": "Nhắn tin qua Instagram",
+    "shareProduct": "Chia sẻ sản phẩm"
+  },
+  "about": {
+    "title": "Về Viet Jewelers",
+    "subtitle": "Tạo nên sự tinh tế từ những ngày đầu",
+    "story": "Tại Viet Jewelers, chúng tôi kết hợp di sản Việt Nam với thiết kế trang sức hiện đại. Mỗi sản phẩm được chế tác với niềm đam mê, sự chính xác và lòng tôn trọng sâu sắc đối với nghệ thuật chế tác trang sức.",
+    "mission": "Sứ mệnh",
+    "missionText": "Tạo ra những tác phẩm trang sức vượt thời gian, tôn vinh nghề thủ công Việt Nam và mang đến sự tinh tế cho cuộc sống hàng ngày.",
+    "values": "Giá trị cốt lõi",
+    "quality": "Chất lượng thủ công",
+    "qualityText": "Mỗi sản phẩm được chế tác tỉ mỉ bằng nguyên liệu cao cấp và kỹ thuật truyền thống.",
+    "heritage": "Di sản Việt Nam",
+    "heritageText": "Chúng tôi lấy cảm hứng từ di sản văn hóa và truyền thống nghệ thuật phong phú của Việt Nam.",
+    "innovation": "Đổi mới hiện đại",
+    "innovationText": "Kết hợp phương pháp truyền thống với thiết kế đương đại để tạo ra những tác phẩm độc đáo, vượt thời gian."
+  },
+  "contact": {
+    "title": "Liên hệ với chúng tôi",
+    "subtitle": "Chúng tôi rất muốn nghe từ bạn",
+    "reachUs": "Liên hệ",
+    "socialMedia": "Kết nối qua mạng xã hội",
+    "visitUs": "Ghé thăm chúng tôi",
+    "businessHours": "Giờ làm việc",
+    "mondayToSaturday": "Thứ 2 - Thứ 7: 9:00 - 18:00",
+    "sunday": "Chủ nhật: Chỉ theo lịch hẹn"
+  },
+  "footer": {
+    "description": "Tạo nên sự tinh tế và sang trọng qua nhiều thế hệ. Di sản Việt Nam hòa quyện cùng thiết kế trang sức hiện đại.",
+    "quickLinks": "Liên kết nhanh",
+    "trackOrder": "Theo dõi đơn hàng",
+    "shippingPolicy": "Chính sách vận chuyển",
+    "returns": "Đổi trả & Hoàn tiền",
+    "faqs": "Câu hỏi thường gặp",
+    "services": "Dịch vụ",
+    "repair": "Sửa chữa trang sức",
+    "customDesign": "Thiết kế theo yêu cầu",
+    "giftCards": "Thẻ quà tặng",
+    "memberProgram": "Chương trình thành viên",
+    "newsletter": "Bản tin",
+    "newsletterText": "Đăng ký để nhận cập nhật, ưu đãi độc quyền và nhiều hơn nữa.",
+    "emailPlaceholder": "Địa chỉ email",
+    "join": "Đăng ký",
+    "copyright": "© 2025 VIET JEWELERS. MỌI QUYỀN ĐƯỢC BẢO LƯU."
+  },
+  "search": {
+    "placeholder": "Tìm kiếm trang sức...",
+    "noResults": "Không tìm thấy kết quả",
+    "results": "Kết quả tìm kiếm"
+  },
+  "chatbot": {
+    "title": "Tư vấn trang sức",
+    "placeholder": "Hỏi về trang sức của chúng tôi...",
+    "greeting": "Xin chào! Tôi là tư vấn viên của Viet Jewelers. Tôi có thể giúp bạn tìm món trang sức hoàn hảo như thế nào?",
+    "send": "Gửi"
+  },
+  "common": {
+    "home": "Trang chủ",
+    "backToHome": "Về trang chủ",
+    "pageNotFound": "Không tìm thấy trang",
+    "notFoundText": "Trang bạn đang tìm không tồn tại hoặc đã được di chuyển.",
+    "loading": "Đang tải..."
+  }
+}

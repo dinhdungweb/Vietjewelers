@@ -1,0 +1,45 @@
+# Viet Jewelers - robots.txt
+# https://vietjewelers.com
+
+User-agent: *
+Allow: /
+Disallow: /cart
+Disallow: /search
+Disallow: /pages/wishlist
+Disallow: /checkout
+Disallow: /account
+
+# Allow all crawlers to access static assets
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Sitemaps
+Sitemap: https://vietjewelers.com/sitemap.xml
+
+# Host
+Host: https://vietjewelers.com

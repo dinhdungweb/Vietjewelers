@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"\\\\.\\(html|css|js|jsx|tsx|ts|json\\)$\")",
+      "Bash(grep -v \"^Product Category$\")",
+      "Bash(grep -v \"^$\")",
+      "Bash(grep -v '^$')",
+      "Bash(python3:*)",
+      "mcp__scrapling__stealthy_fetch",
+      "Bash(npm run:*)",
+      "Bash(ls -la /c/Users/MSI/Desktop/vietjeivery/src/*.tsx /c/Users/MSI/Desktop/vietjeivery/src/*.ts /c/Users/MSI/Desktop/vietjeivery/src/*.css)"
+    ]
+  }
+}

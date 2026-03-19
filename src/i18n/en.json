@@ -1,0 +1,121 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "shop": "Shop",
+    "collection": "Collection",
+    "contact": "Contact"
+  },
+  "topbar": {
+    "findStore": "Find a Store"
+  },
+  "hero": {
+    "subtitle": "New Arrivals",
+    "title": "VIET JEWELERS GOLD & SILVER JEWELRY",
+    "cta": "Explore Collection"
+  },
+  "categories": {
+    "title": "Shop by Categories",
+    "explore": "Explore",
+    "rings": "Rings",
+    "earrings": "Earrings",
+    "necklaces": "Necklaces",
+    "charms-pendants": "Charms & Pendants",
+    "bracelets": "Bracelets",
+    "body-jewelry": "Body Jewelry",
+    "watches": "Watches",
+    "brooches": "Brooches & Lapel Pins",
+    "other": "Other"
+  },
+  "products": {
+    "featured": "Featured Products",
+    "bestSellers": "Best Sellers",
+    "newArrivals": "New Arrivals",
+    "viewDetails": "View Details",
+    "allProducts": "All Products",
+    "filters": "Filters",
+    "clearAll": "Clear All",
+    "sort": "Sort by",
+    "sortPriceAsc": "Price: Low to High",
+    "sortPriceDesc": "Price: High to Low",
+    "sortNameAsc": "Name: A to Z",
+    "sortNameDesc": "Name: Z to A",
+    "priceRange": "Price Range",
+    "under500k": "Under ₫500,000",
+    "500kTo1m": "₫500,000 - ₫1,000,000",
+    "1mTo5m": "₫1,000,000 - ₫5,000,000",
+    "over5m": "Over ₫5,000,000",
+    "category": "Category",
+    "type": "Type",
+    "noProducts": "No products found",
+    "showingResults": "Showing {{count}} products",
+    "relatedProducts": "Related Products"
+  },
+  "productDetail": {
+    "interested": "Interested in this piece?",
+    "contactUs": "Contact us through your preferred channel",
+    "chatOnZalo": "Chat on Zalo",
+    "dmOnInstagram": "DM on Instagram",
+    "shareProduct": "Share this product"
+  },
+  "about": {
+    "title": "About Viet Jewelers",
+    "subtitle": "Crafting Elegance Since Day One",
+    "story": "At Viet Jewelers, we blend Vietnamese heritage with modern jewelry design. Every piece is crafted with passion, precision, and a deep respect for the art of jewelry making.",
+    "mission": "Our Mission",
+    "missionText": "To create timeless jewelry pieces that celebrate Vietnamese craftsmanship and bring elegance to everyday life.",
+    "values": "Our Values",
+    "quality": "Quality Craftsmanship",
+    "qualityText": "Every piece is meticulously crafted using premium materials and traditional techniques.",
+    "heritage": "Vietnamese Heritage",
+    "heritageText": "We draw inspiration from Vietnam's rich cultural heritage and artistic traditions.",
+    "innovation": "Modern Innovation",
+    "innovationText": "We combine traditional methods with contemporary design for unique, timeless pieces."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you",
+    "reachUs": "Reach Us",
+    "socialMedia": "Connect on Social Media",
+    "visitUs": "Visit Us",
+    "businessHours": "Business Hours",
+    "mondayToSaturday": "Monday - Saturday: 9:00 AM - 6:00 PM",
+    "sunday": "Sunday: By appointment only"
+  },
+  "footer": {
+    "description": "Crafting elegance and luxury for generations. Vietnamese heritage meets modern jewelry design.",
+    "quickLinks": "Quick Links",
+    "trackOrder": "Track Order",
+    "shippingPolicy": "Shipping Policy",
+    "returns": "Returns & Exchanges",
+    "faqs": "FAQs",
+    "services": "Our Services",
+    "repair": "Jewelry Repair",
+    "customDesign": "Custom Design",
+    "giftCards": "Gift Cards",
+    "memberProgram": "Member Program",
+    "newsletter": "Newsletter",
+    "newsletterText": "Subscribe to receive updates, access to exclusive deals, and more.",
+    "emailPlaceholder": "Email Address",
+    "join": "Join",
+    "copyright": "© 2025 VIET JEWELERS. ALL RIGHTS RESERVED."
+  },
+  "search": {
+    "placeholder": "Search for jewelry...",
+    "noResults": "No results found",
+    "results": "Search Results"
+  },
+  "chatbot": {
+    "title": "Jewelry Advisor",
+    "placeholder": "Ask about our jewelry...",
+    "greeting": "Hello! I'm your Viet Jewelers advisor. How can I help you find the perfect piece?",
+    "send": "Send"
+  },
+  "common": {
+    "home": "Home",
+    "backToHome": "Back to Home",
+    "pageNotFound": "Page Not Found",
+    "notFoundText": "The page you're looking for doesn't exist or has been moved.",
+    "loading": "Loading..."
+  }
+}
