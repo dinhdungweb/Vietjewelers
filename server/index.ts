@@ -23,7 +23,7 @@ import adminUploadRouter from './routes/admin/upload.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const app = express();
-const PORT = Number(process.env.PORT) || 3002;
+const PORT = Number(process.env.PORT) || 3003;
 const SESSION_SECRET = process.env.SESSION_SECRET || 'vietjewelers-session-secret-change-in-production';
 
 // ─── Middleware ─────────────────────────────────────────────

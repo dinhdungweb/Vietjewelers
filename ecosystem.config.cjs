@@ -6,12 +6,12 @@ module.exports = {
       args: '--import tsx server/index.ts',
       env: {
         NODE_ENV: 'production',
-        PORT: 3002,
+        PORT: 3003,
         CORS_ORIGIN: 'http://localhost:3000'
       },
       env_development: {
         NODE_ENV: 'development',
-        PORT: 3002,
+        PORT: 3003,
         CORS_ORIGIN: 'http://localhost:3000'
       }
     }
