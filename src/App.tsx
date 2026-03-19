@@ -7,7 +7,6 @@ import MobileStickyBar from './components/layout/MobileStickyBar';
 import FloatingChat from './components/layout/FloatingChat';
 import CartDrawer from './components/ui/CartDrawer';
 import SearchOverlay from './components/ui/SearchOverlay';
-import AgeVerification from './components/ui/AgeVerification';
 import QuickViewModal from './components/ui/QuickViewModal';
 import { useProducts } from './hooks/useProducts';
 import { useSearch } from './hooks/useSearch';
@@ -94,7 +93,6 @@ export default function App() {
       <CartDrawer />
       <SearchOverlay searchFn={searchFn} />
       <QuickViewModal products={products} />
-      <AgeVerification />
     </div>
   );
 }
